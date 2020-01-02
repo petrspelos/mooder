@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mooder", "Mooder\Mooder.csproj", "{B59227FF-83D3-43E8-AAF2-05A73226B0D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mooder.Core", "Mooder.Core\Mooder.Core.csproj", "{74E9CA30-60AB-48AD-A3E4-5DCB01F370D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mooder.Tests", "Mooder.Tests\Mooder.Tests.csproj", "{0D17C112-0728-4111-8632-180C4EDFC8D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{B59227FF-83D3-43E8-AAF2-05A73226B0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B59227FF-83D3-43E8-AAF2-05A73226B0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B59227FF-83D3-43E8-AAF2-05A73226B0D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E9CA30-60AB-48AD-A3E4-5DCB01F370D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E9CA30-60AB-48AD-A3E4-5DCB01F370D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E9CA30-60AB-48AD-A3E4-5DCB01F370D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E9CA30-60AB-48AD-A3E4-5DCB01F370D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D17C112-0728-4111-8632-180C4EDFC8D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D17C112-0728-4111-8632-180C4EDFC8D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D17C112-0728-4111-8632-180C4EDFC8D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D17C112-0728-4111-8632-180C4EDFC8D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

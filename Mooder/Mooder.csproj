@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Mooder.Core\Mooder.Core.csproj" />
+  </ItemGroup>
+
 </Project>
