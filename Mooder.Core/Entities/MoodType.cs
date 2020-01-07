@@ -5,7 +5,7 @@
         Best = 1,
         Good = 2,
         Neutral = 3,
-        NotGood = 4,
-        Bad = 5
+        Bad = 4,
+        Worst = 5
     }
 }
